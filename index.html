@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  <ol class="toc">
+    {% for post in site.posts %}
+    <li>
+      <a href="#{{ post.title }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ol>
+  
+  <article>
+    {% for post in site.posts %}
+      <section>
+        <h1 id="{{ post.title }}">{{ post.title }}</h1> 
+        {{ post.content }}
+      </section>  
+    {% endfor %}
+  </article>
+
+</div>
