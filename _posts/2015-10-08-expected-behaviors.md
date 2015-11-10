@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expected Behaviours
+title: Expected Behaviors
 date: 2015-10-08 00:09:00
 ---
 
