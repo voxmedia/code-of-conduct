@@ -7,13 +7,13 @@ The complete code of conduct can be read at [code-of-conduct.voxmedia.com](http:
 
 The entire Vox Product team contributed to and reviewed this code of conduct, but special credit goes to the following team members who made significant contributions:
 
-- Goergia Cowley
+- Georgia Cowley
 - Ally Palanzi
 - Brittany Halloway-Brown
 - Mariah Minigan
 - Nancy Seay
 - Lauren Fisher
-- ALexis Juneja
+- Alexis Juneja
 - Mandy Brown
 
 ## Development
