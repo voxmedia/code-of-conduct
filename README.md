@@ -17,7 +17,7 @@ The entire Vox Product team contributed to and reviewed this code of conduct, bu
 - Mandy Brown
 
 ## Development
-This code of conduct is built using [Jekyll](www.jekyllrb.com). To develop on this locally, you must:
+This code of conduct is built using [Jekyll](http://www.jekyllrb.com). To develop on this locally, you must:
 - `gem install bundler` if you don't already have bundler installed
 - `bundle install`
 - `jekyll serve` to serve files locally
