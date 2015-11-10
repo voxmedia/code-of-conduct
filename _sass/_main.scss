@@ -34,7 +34,7 @@ p, li {
 }
 
 li {
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 }
 
 strong {
@@ -94,6 +94,9 @@ ol.m-toc {
   }
   a {
     color: lighten($color-brand, 20%);
+    &:hover {
+      color: lighten($color-brand, 40%);
+    }
   }
 }
 
