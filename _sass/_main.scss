@@ -5,8 +5,8 @@ body {
 }
 
 h1 {
-  font-weight: 800;
   font-size: 45px;
+  font-weight: 800;
 }
 
 h2 {
@@ -14,20 +14,27 @@ h2 {
   font-weight: 800;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin-bottom: 20px;
 }
 
 a {
+  border-bottom: 1px solid currentColor;
   color: $color-brand;
   text-decoration: none;
-  border-bottom: 1px solid currentColor;
+
   &:hover {
     color: darken($color-brand, 20%);
   }
 }
 
-p, li {
+p,
+li {
   font-size: $base-font-size;
   line-height: 1.5;
   margin-bottom: 15px;
@@ -61,40 +68,47 @@ img {
 
 .m-section {
   padding: 30px 0;
+
   &:first-of-type {
     border-top: 1px solid $color-body;
   }
 }
 
-ol.m-toc {
-  margin: 40px 0;
+.m-toc {
   list-style: decimal;
+  margin: 40px 0;
+
   a {
-    display: inline-block;
     border-bottom: 0;
+    display: inline-block;
   }
+
   li {
     list-style-position: inside;
   }
 }
 
 .m-footer {
-  border-top: 1px solid $grey-color-light;
-  padding: 40px 0;
   background-color: $color-body;
-  color: #fff;
+  border-top: 1px solid $color-gray-light;
+  color: $color-white;
+  padding: 40px 0;
+
   @media(min-width: 500px) {
     &__section {
-      width: 60%;
       display: inline-block;
       vertical-align: top;
+      width: 60%;
+
       &:nth-child(2) {
         width: 35%;
       }
     }
   }
+
   a {
     color: lighten($color-brand, 20%);
+
     &:hover {
       color: lighten($color-brand, 40%);
     }
@@ -102,63 +116,69 @@ ol.m-toc {
 }
 
 .m-header {
+  background-color: $color-gray-dark;
   padding: 20px;
-  background-color: $grey-color-dark;
 
   svg {
-    width: 200px;
-    height: 30px;
     display: inline-block;
+    height: 30px;
     vertical-align: middle;
+    width: 200px;
   }
 
   &__nav {
+    color: $color-white;
     display: inline-block;
-    vertical-align: middle;
-    text-align: right;
+    float: right;
     font-size: 12px;
-    text-transform: uppercase;
     padding-top: 10px;
+    text-align: right;
+    text-transform: uppercase;
+    vertical-align: middle;
+
     a {
-      color: #fff;
-      padding: 0 10px;
       border-bottom: 0;
+      color: $color-white;
+      padding: 0 10px;
+
       &:hover {
         color: lighten($color-brand, 10%);
       }
     }
-    color: #fff;
-    float: right;
   }
 }
 
 .m-hero {
-  background-image: url(../images/header.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  text-align: center;
-  padding: 150px 0;
-  color: $grey-color-dark;
-  text-transform: uppercase;
-  position: relative;
   background-attachment: fixed;
+  background-image: url('../images/header.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: $color-gray-dark;
+  padding: 150px 0;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+
   &:before {
-    content: '';
-    background-color:rgba(255,255,255,.2);
-    position: absolute;
-    top: 0;
+    background-color: rgba(255, 255, 255, .2);
     bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
+    content: '';
     height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
   }
+
   * {
-    z-index: 10000;
     position: relative;
+    z-index: 10000;
   }
+
   &__title {
-    text-shadow: 3px 3px 10px rgba(255,255,255,.8);
+    text-shadow: 3px 3px 10px rgba(255, 255, 255, .8);
+
     @media(min-width: 500px) {
       font-size: 70px;
     }
@@ -166,8 +186,9 @@ ol.m-toc {
 }
 
 .m-logo {
-  text-align: center;
   margin-bottom: 30px;
+  text-align: center;
+
   img {
     max-width: 100px;
   }
@@ -176,24 +197,24 @@ ol.m-toc {
 // Patterns
 
 .p-icon {
-  width: 20px;
   height: 20px;
   vertical-align: middle;
+  width: 20px;
 }
 
 @media(min-width: 500px) {
   .wide {
+    margin-left: -15%;
+    max-width: 1000px;
     vertical-align: middle;
     width: 150%;
-    max-width: 1000px;
-    margin-left: -15%;
   }
 
   .right,
   .left {
-    width: 55%;
     padding: 0 10px;
     position: relative;
+    width: 55%;
   }
 
   .right {
