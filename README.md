@@ -9,7 +9,7 @@ The entire Vox Product team contributed to and reviewed this code of conduct, bu
 
 - Georgia Cowley
 - Ally Palanzi
-- Brittany Halloway-Brown
+- Brittany Holloway-Brown
 - Mariah Minigan
 - Nancy Seay
 - Lauren Fisher
