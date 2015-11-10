@@ -66,11 +66,14 @@ img {
   }
 }
 
-.m-toc {
-  list-style-position: inside;
+ol.m-toc {
   margin: 40px 0;
+  list-style: decimal;
   &__link {
     display: inline-block;
+  }
+  li {
+    list-style-position: inside;
   }
 }
 
@@ -111,7 +114,7 @@ img {
     text-align: right;
     font-size: 12px;
     text-transform: uppercase;
-    padding-top: 5px;
+    padding-top: 10px;
     a {
       color: #fff;
       padding: 0 10px;
