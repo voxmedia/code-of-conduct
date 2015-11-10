@@ -2,23 +2,17 @@
 layout: default
 ---
 
-<div class="home">
-  
-  <ol class="toc">
-    {% for post in site.posts %}
-    <li>
-      <a href="#{{ post.title }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ol>
-  
-  <article>
-    {% for post in site.posts %}
-      <section>
-        <h1 id="{{ post.title }}">{{ post.title }}</h1> 
-        {{ post.content }}
-      </section>  
-    {% endfor %}
-  </article>
+<ol class="m-toc">
+  {% for post in site.posts %}
+  <li>
+    <a class="m-toc__link" href="#{{ post.title }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ol>
 
-</div>
+{% for post in site.posts %}
+  <section class="m-section">
+    <h2 id="{{ post.title }}">{{ post.title }}</h1>
+    {{ post.content }}
+  </section>
+{% endfor %}
