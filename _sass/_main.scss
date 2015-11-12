@@ -78,16 +78,12 @@ img {
 }
 
 .m-toc {
-  list-style: decimal;
+  list-style-position: inside;
   margin: 40px 0;
 
   a {
     border-bottom: 0;
     display: inline-block;
-  }
-
-  li {
-    list-style-position: inside;
   }
 }
 
@@ -96,6 +92,10 @@ img {
   border-top: 1px solid $color-gray-light;
   color: $color-white;
   padding: 40px 0;
+
+  ul {
+    list-style: none;
+  }
 
   @media(min-width: 500px) {
     &__section {
