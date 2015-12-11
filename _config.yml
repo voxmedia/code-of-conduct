@@ -1,11 +1,11 @@
 # Site settings
-title: Vox Product Code of Conduct
-email: support@voxmedia.com
-description: > # This code of conduct governs the environment of the Vox Product team.
+title: Social Tables Engineering Code of Conduct
+email: eng@socialtables.com
+description: > # This code of conduct governs the environment of the Social Tables Engineering team.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code-of-conduct.voxmedia.com" # the base hostname & protocol for your site
-twitter_username: voxproduct
-github_username:  voxmedia
+url: "http://code-of-conduct.socialtables.com" # the base hostname & protocol for your site
+twitter_username: socialtables
+github_username:  socialtables
 
 # Build settings
 markdown: kramdown
