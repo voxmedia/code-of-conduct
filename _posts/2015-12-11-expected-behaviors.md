@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Expected behaviors
-date: 2015-10-08 00:09:00
+date: 2015-12-11 00:04:00
 ---
 
 Every member of the product team is expected to work hard, be considerate of their colleagues across the company, and contribute to a collaborative, positive, and healthy environment in which we can all succeed. 

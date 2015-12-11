@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unacceptable behaviors
-date: 2015-10-08 00:08:00
+date: 2015-12-11 00:04:00
 ---
 
 The product team is committed to providing a welcoming and safe environment for people of all races, gender identities, gender expressions, sexual orientations, physical abilities, physical appearances, socioeconomic backgrounds, nationalities, ages, religions, and beliefs. Discrimination and harassment are expressly prohibited in our employee handbook. Harassment includes, but is not limited to, intimidation; stalking; unwanted photography; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; sexist, racist, ableist, or otherwise discriminatory or derogatory language; and unwelcome sexual attention. 

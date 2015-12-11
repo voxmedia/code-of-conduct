@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contributing
-date: 2015-06-11 00:06:00
+date: 2015-12-11 00:04:00
 ---
 
 Members of the Social Tables Engineering team are invited to contribute to this code of conduct in one of two ways: either by filing an issue to raise a concern or share feedback, or by opening a pull request with suggested changes. If you have a question or suggestion for evolving the policies, file an issue outlining your suggestion, providing as much context as ![](/images/megaphone.png){: .right }
