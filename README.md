@@ -24,8 +24,6 @@ We want our team to be a fun, productive, and safe space for all members. In add
 
 Every member of the product team is expected to work hard, be considerate of their colleagues across the company, and contribute to a collaborative, positive, and healthy environment in which we can all succeed.
 
-![](/images/face.png){: .right }
-
 **Be supportive of your colleagues**, both proactively and responsively. Offer to help if you see someone struggling or otherwise in need of assistance (taking care not to be patronizing or disrespectful). If someone approaches you looking for help, be generous with your time; if you’re under a deadline, direct them to someone else who may be of assistance. Go out of your way to include people in team jokes or memes, recognizing that we want to build an environment free of cliques.
 
 **Be collaborative.** Involve your colleagues in brainstorms, sketching sessions, code reviews, planning documents, and the like. It’s not only okay to ask for help or feedback often, it’s unacceptable not to do so. Don’t succumb to either impostor syndrome (believing that you don’t deserve to be here) or [blowhard syndrome](http://xuhulk.tumblr.com/post/110549967516/stop-blowhard-syndrome) (believing you can do no wrong). Recognize that in addition to asking for feedback, you are similarly obligated to give it.
@@ -45,7 +43,6 @@ Furthermore, any behavior or language which is unwelcoming—whether or not it r
 There are a host of behaviors and language common on tech teams which are worth noting as specifically unwelcome: Avoid “_well, actuallys_”—pedantic corrections that are often insulting and unproductive; make an effort not to interrupt your colleagues while they are speaking; never respond with surprise when someone asks for help; and take care neither to patronize your colleagues nor assume complete knowledge of a topic. This last point is especially important when talking about technical topics: Many women and people of color in the tech industry have many tales of being either [mansplained](https://www.guernicamag.com/daily/rebecca-solnit-men-explain-things-to-me/) about a field in which they are experts, or else excluded from learning opportunities because a colleague wouldn’t make an effort to answer questions—don’t be that person. Remember that your colleagues may have expertise you are unaware of, and listen at least as much as you speak.
 
 ## Reporting a problem
-![](/images/bubbles.jpg){: .wide }
 
 These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong—whether it’s a microaggression or an instance of harassment—there are a number of things you can do to address the situation with your fellow product team members or with our people and culture team. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously. Depending on your comfort level and the severity of the situation, here are some things you can do to address it:
 
