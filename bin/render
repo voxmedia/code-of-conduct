@@ -1,0 +1,23 @@
+#!/usr/bin/env node
+"use strict";
+
+const markdownIt = require("markdown-it");
+const fs = require("fs");
+const path = require("path");
+
+const md = markdownIt({
+	html: true,
+	linkify: true,
+	typographer: true
+});
+
+const content = fs.readFileSync(path.join(__dirname, "..", "README.md"), "utf8");
+const body = md.render(content);
+
+// World's craziest HTML templates...
+const template = fs.readFileSync(path.join(__dirname, "..", "index.html.tpl"), "utf8");
+let html;
+// `body` will be in scope in the eval'd template
+eval("html = `" + template + "`");
+
+fs.writeFileSync(path.join(__dirname, "..", "index.html"), html);
