@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Code of Conduct - Social Tables Engineering</title>
+	<meta charset="utf-8" />
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,600,700' rel='stylesheet' type='text/css'>
 	<link rel="shortcut icon" href="https://14563-presscdn-0-34-pagely.netdna-ssl.com/wp-content/themes/socialtables/favicon.ico" />
 	<style>
