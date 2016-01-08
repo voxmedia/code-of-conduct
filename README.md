@@ -18,7 +18,7 @@ We want our team to be fun, productive, and safe for all members. In addition to
 
 **We value so-called “soft” skills as much as “hard” skills.** That is, we love code, but we recognize that writing code is not the only or most important way to contribute to great products. In fact, we object to the labels “soft” and “hard” because they imply one set of skills is more valuable than another. “Non-technical” is not synonymous with “inferior.”
 
-**We value diversity.** Diversity not only makes us a happier team. Evidence shows that diversity makes us a better, more productive team, too.
+**We value diversity.** Diversity not only makes us a happier team, but evidence shows that diversity makes us a better, more productive team, too.
 
 ## Expected behaviors
 
