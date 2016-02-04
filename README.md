@@ -4,7 +4,7 @@ The complete code of conduct can be read at [code-of-conduct.socialtables.com](h
 
 ## Introduction
 
-This code of conduct governs the environment of the Social Tables Engineering team. We created it not because we anticipate bad behavior, but because we believe that articulating our values and obligations to one another reinforces the already exceptional level of respect among the team and because having a code provides us with clear avenues to correct our culture should it ever stray from that course. We make this code public in the hopes of contributing to the ongoing conversation about inclusion in the tech, design, and media communities and encourage other teams to fork it and make it their own. To our team, we commit to enforce and evolve this code as our team grows.
+The Social Tables Engineering team is committed to fostering a welcoming and supportive environment for all engineers and our colleagues, and we created this code of conduct to hold ourselves to this ideal. We do not anticipate bad behavior, but it is important to articulate our values and obligations to one another to reinforce our culture of collaboration and respect among the team. Having a code provides us with clear avenues to correct our culture should it ever stray from that course. We make this code public in the hopes of contributing to the ongoing conversation about inclusion in the tech community and encourage other teams to fork it and make it their own. For our team, this code is a living document and we commit to uphold and improve it as our team grows.
 
 ## Scope
 
