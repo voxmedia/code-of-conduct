@@ -45,9 +45,10 @@ There are a host of behaviors and language common on tech teams which are worth 
 - avoid “_well, actuallys_”—pedantic corrections that are often insulting and unproductive;
 - make an effort not to interrupt your colleagues while they are speaking;
 - never respond with surprise when someone asks for help;
-- and take care neither to patronize your colleagues nor assume complete knowledge of a topic.
-
-This last point is especially important when talking about technical topics: Women and people of color in the tech industry have many tales of being either [mansplained](https://www.guernicamag.com/daily/rebecca-solnit-men-explain-things-to-me/) about a field in which they are experts, or else excluded from learning opportunities because a colleague wouldn’t make an effort to answer questions. Don’t be that person. Remember that your colleagues may have expertise you are unaware of, and listen at least as much as you speak.
+- and take care neither to patronize your colleagues nor assume complete knowledge of a topic;
+- don't presume to explain a topic without knowing whether someone wants or needs an explanation;
+- strive to be inclusive in learning opportunities and technical conversations;
+- listen more than you speak.
 
 ## Reporting a problem
 
