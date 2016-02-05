@@ -1,0 +1,39 @@
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	background-color: #ffffff;
+	margin: 0px;
+	padding: 10px;
+	border-bottom: 1px #5e6063 solid;
+}
+
+h1::before {
+	content: url(st-logo.svg) " ";
+}
+
+h1, h2, h3, h4, h5, p, li {
+	color: #494949;
+}
+
+a {
+	color: #4f8d9d;
+}
+
+a:hover, a:focus {
+	color: #CB5599;
+	transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+}
+
+p, h2 {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+p {
+	color: ;
+}
