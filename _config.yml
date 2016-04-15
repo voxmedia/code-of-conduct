@@ -1,7 +1,7 @@
 # Site settings
 title: Estately Product Code of Conduct
 email: doug@estately.com
-description: > # This code of conduct governs the environment of the Vox Product team.
+description: > # This code of conduct governs the environment of the Estately Development team.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://estately.github.io/code-of-conduct" # the base hostname & protocol for your site
 twitter_username: estately
