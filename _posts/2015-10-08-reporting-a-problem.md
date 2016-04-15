@@ -3,7 +3,6 @@ layout: post
 title: Reporting a problem
 date: 2015-10-08 00:07:00
 ---
-![](/images/bubbles.jpg){: .wide }
 
 These guidelines are ambitious, and we’re not always going to succeed in meeting them. When something goes wrong—whether it’s a microaggression or an instance of harassment—there are a number of things you can do to address the situation with your fellow development team members or with Doug. We know that you’ll do your best work if you’re happy and comfortable in your surroundings, so we take concerns about this stuff seriously. Depending on your comfort level and the severity of the situation, here are some things you can do to address it: 
 
