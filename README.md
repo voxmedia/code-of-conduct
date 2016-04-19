@@ -1,20 +1,11 @@
-# Vox Product Code of Conduct
+# Estately Code of Conduct
 
-The complete code of conduct can be read at [code-of-conduct.voxmedia.com](http://code-of-conduct.voxmedia.com)
+The complete code of conduct can be read at [http://estately.github.io/code-of-conduct/](http://estately.github.io/code-of-conduct/)
 
 
 ## Credit
 
-The entire Vox Product team contributed to and reviewed this code of conduct, but special credit goes to the following team members who made significant contributions:
-
-- Georgia Cowley
-- Ally Palanzi
-- Brittany Holloway-Brown
-- Mariah Minigan
-- Nancy Seay
-- Lauren Fisher
-- Alexis Juneja
-- Mandy Brown
+This is a fork of the Vox Product team's code of conduct, they deserve most of the credit: https://github.com/voxmedia/code-of-conduct
 
 ## Development
 This code of conduct is built using [Jekyll](http://www.jekyllrb.com). To develop on this locally, you must:

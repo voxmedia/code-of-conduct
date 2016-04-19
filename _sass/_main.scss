@@ -152,10 +152,6 @@ img {
 }
 
 .m-hero {
-  background-attachment: fixed;
-  background-image: url('../images/header.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
   color: $color-gray-dark;
   padding: 150px 0;
   position: relative;
@@ -185,15 +181,6 @@ img {
     @media(min-width: 500px) {
       font-size: 70px;
     }
-  }
-}
-
-.m-logo {
-  margin-bottom: 30px;
-  text-align: center;
-
-  img {
-    max-width: 100px;
   }
 }
 
