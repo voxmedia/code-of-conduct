@@ -18,4 +18,4 @@ Every member of the product team is expected to work hard, be considerate of the
 
 **Be humane.** Be polite and friendly in all forms of communication, especially remote communication, where opportunities for misunderstanding are greater. Use sarcasm carefully. Tone is hard to decipher online; make judicious use of emoji to aid in communication. Use video hangouts and IRL meetings when it makes sense; face-to-face discussion benefits from all kinds of social cues that may go missing in other forms of communication.
 
-**Treat partners and third parties with the same respect you would a coworker.** We work with outside parties from time to time, some of whom may not be subject to this code of conduct. Internal team discussion about external parties should reflect the same respect, constructive and humane nature that we strive for in our own teams. 
+**Treat customers and third parties with respect.** We work with outside parties, some of whom may not be subject to this code of conduct. Discussion with and about external parties should reflect the same respectful, constructive and humane nature that we strive for in our internal interactions.
